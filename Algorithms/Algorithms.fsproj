@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="DataStructures\BST.fs" />
     <Compile Include="Math\Perfect_Numbers.fs" />
     <Compile Include="Math\Fibonacci.fs" />
     <Compile Include="Sort\Quick_Sort.fs" />
